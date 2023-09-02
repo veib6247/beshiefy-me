@@ -1,6 +1,6 @@
 <script setup lang="ts">
   useHead({
-    title: 'Beshiefy',
+    title: 'Beshiefy Me | Bakit 🤸‍♂️ malungkot 🤸‍♂️ ang 🤸‍♂️ beshie 🤸‍♂️ ko?',
     link: [{ rel: 'icon', href: './cartwheel.svg' }],
   })
 
