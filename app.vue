@@ -63,6 +63,16 @@
       </div>
     </div>
   </section>
+  <footer class="container mx-auto flex justify-center">
+    <div class="flex flex-col ">
+      <p class="text-sm">
+        Bryan Olandres
+      </p>
+      <a class="text-xs mx-auto hover:underline" href="https://github.com/veib6247/beshiefy-me" target="_blank">
+        Github
+      </a>
+    </div>
+  </footer>
 </template>
 
 <style>
