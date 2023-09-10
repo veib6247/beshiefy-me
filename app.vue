@@ -5,8 +5,10 @@
   })
 
   const userInput = ref('')
+
   const emojis = ref(['🤸‍♂️', '🤸', '❤', '🛒', '👌', '😀', '⭐', '😍', '⚡', '👍', '🙌', '✌', '🤣'])
   const selectedEmoji = ref('🤸‍♂️')
+
   const beshified = computed(() => {
     return userInput.value.replaceAll(' ', ` ${selectedEmoji.value} `)
   })
